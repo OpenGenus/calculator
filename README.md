@@ -6,7 +6,7 @@ Pre-requistics - Apache Tomcat Server (or any other server) installed and config
 3. Give any name for the Project , for example - ServletCalculator
 
 
-![image](calculator/images/servlet1.png)
+![image](images/servlet1.png)
 
 4. Click on next, there are no changes to made here, click next again.
 5. Make sure that the checkbox generation web.xml deployment descriptor

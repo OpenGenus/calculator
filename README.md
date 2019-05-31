@@ -6,13 +6,13 @@ Pre-requistics - Apache Tomcat Server (or any other server) installed and config
 3. Give any name for the Project , for example - ServletCalculator
 
 
-![image](https://drive.google.com/uc?export=view&id=1VZ2koizWeziF1RexKcTmQLR_8EQMEcJ8)
+![image](images/servlet1.png)
 
 4. Click on next, there are no changes to made here, click next again.
 5. Make sure that the checkbox generation web.xml deployment descriptor
 6. Click on finish, this will create the project
 
-![image](https://drive.google.com/uc?export=view&id=1Xi_1PI9oRdgwBjAGVf77fYerdD_SMp_W)
+![image](images/servlet2.jpg)
 
 7. Create a servlet file in the Java Resources folder
    Right click on src folder -> goto New -> Servlet
@@ -27,15 +27,15 @@ Pre-requistics - Apache Tomcat Server (or any other server) installed and config
    
    Below is the snapshot of the project explorer
    
-![image](https://drive.google.com/uc?export=view&id=1hPjlc_z1vOkG-OtfVyMMb19JdfCxzDvA)
+![image](images/servlet4.png)
 
 11. Save the files and run the application on server
 
-![image](https://drive.google.com/uc?export=view&id=1V1lIcradiKl-SG70gzvZtuZ2B9VF_Zyq)
+![image](images/servlet6.png)
 
 12. You will see the name of the server installed and configured 
     
-    ![image](https://drive.google.com/uc?export=view&id=1bn__ghvrtIIO2AX_CaYsz7iMWtL_U197)
+    ![image](images/servlet7.png)
     
     Click on finish and you are done !
 
@@ -47,7 +47,7 @@ Give the project name as JSPCalculator
    Right click on WebContent -> New -> JSP File
    Give the name as JSPCalculator ,click on next and then Finish
    
-![image](https://drive.google.com/uc?export=view&id=10s3zZGfuCSVwVbZESmkZ75OUd1oeLEFm)
+![image](images/jsp1.png)
 
 8. Create a html file in the WebContent folder
    Right click on WebContent folder -> goto New -> HTML File
@@ -60,10 +60,10 @@ Give the project name as JSPCalculator
    
    Below is the snapshot of the project explorer
    
-![image](https://drive.google.com/uc?export=view&id=1yKPvydoCGO4Nic2r-0bIRt2mwH-jmYag)
+![image](images/jsp2.png)
 
 11. Save the files and run the application on the server
 
-    ![image](https://drive.google.com/uc?export=view&id=1bn__ghvrtIIO2AX_CaYsz7iMWtL_U197)
+    ![image](images/servlet7.png)
 
 Click on finish and you are done ! 

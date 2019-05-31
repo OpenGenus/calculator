@@ -37,7 +37,7 @@ Pre-requistics - Apache Tomcat Server (or any other server) installed and config
     
     ![image](https://drive.google.com/uc?export=view&id=1bn__ghvrtIIO2AX_CaYsz7iMWtL_U197)
     
-    Click on run and you are done !
+    Click on finish and you are done !
 
 ### JSP
 Steps 1-6 of the servlets remain same for creating JSP Application
